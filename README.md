@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-LIVE SITE URL: https://order-summary-component-nine-eta.vercel.app/
+LIVE SITE URL: https://order-summary-component-three-dun.vercel.app/
 
 Thanks for checking out this front-end coding challenge.
 
